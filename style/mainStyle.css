@@ -61,9 +61,11 @@ p {
 }
 
 .pagination {
+    margin: auto;
     text-align: center;
     margin-top: 70px;
     margin-bottom: 50px;
+
 }
 
 
@@ -95,7 +97,6 @@ p {
     background-color: #4fd98d;
     font-weight: bold;
 }
-
 
 
 
